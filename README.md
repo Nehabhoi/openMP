@@ -15,5 +15,5 @@
 
 A simple parallel algorithm for the matrix-matrix product using OpenMP
 
-Result: OpenmpResult.txt
+Result: OpenmpResult.txt <br />
 command: result_openmp.png
