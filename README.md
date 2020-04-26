@@ -22,5 +22,5 @@ command: result_openmp.png
 https://github.com/rajanjitenpatel/Docker-Containers/tree/master/OpenMP-Container
 
 ## Resource:
-https://computing.llnl.gov/tutorials/pthreads/
+https://computing.llnl.gov/tutorials/pthreads/ <br />
 https://computing.llnl.gov/tutorials/openMP/
